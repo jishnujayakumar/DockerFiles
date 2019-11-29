@@ -6,7 +6,14 @@ This repository contains **Dockerfiles** for docker images developed by me.
 |---	|---	|
 | alp 	|  Alpine	|
 | jdk8 	|  Java Development Kit-1.8	|
+| jdk11 	|  Java Development Kit-11	|
 | mvn 	|  Maven	|
+
+# Tips to publish an image to docker hub
+- docker login
+- docker build
+- docker tag
+- docker push
 
 # Author
 - [Jishnu P](https://jishnujayakumar.github.io)
