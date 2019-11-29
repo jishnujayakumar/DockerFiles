@@ -14,6 +14,6 @@ This repository contains **Dockerfiles** for docker images developed by me.
 - docker build
 - docker tag
 - docker push
-
+- **NOTE:** Refer docker documentation page for the explaination of each of the aforementioned commands 
 # Author
 - [Jishnu P](https://jishnujayakumar.github.io)
