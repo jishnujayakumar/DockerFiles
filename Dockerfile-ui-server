@@ -1,5 +1,0 @@
-FROM alpine
-MAINTAINER Jishnu P <https://jishnujayakumar.github.io>
-RUN apk update && apk add openjdk8 openjdk8 maven tmux
-EXPOSE 8443
-CMD tail -f /dev/null
